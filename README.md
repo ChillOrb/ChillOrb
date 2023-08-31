@@ -18,8 +18,6 @@ Motivated Software Engineer with over 3 years of experience. Proficient in build
 ---
 
 ## Connect with me 🌍
-
-- [GitHub](https://github.com/ChillOrb)
 - [Send me an Email](mailto:rakshitparashar1@gmail.com)
 - [Medium](https://medium.com/@rakshitparashar1)
 - [LinkedIn](https://www.linkedin.com/in/parashar1/)

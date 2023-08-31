@@ -1,7 +1,7 @@
 ## Summary
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+I'm+Rakshit Parashar" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Rakshit Parashar+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Software Engineer;Open-Source+Enthusiast" alt="Headline" />
 </div>
 
 <div style="display: flex;">

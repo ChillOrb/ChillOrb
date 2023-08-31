@@ -26,6 +26,6 @@ Motivated Software Engineer with over 3 years of experience. Proficient in build
     <img src="animation/gopher-dance-long-3x.gif" alt="Gopher Dance" />
 </div>
 
-[credits](https://github.com/egonelbre)
+[Gopher](https://github.com/egonelbre)
 
 ---

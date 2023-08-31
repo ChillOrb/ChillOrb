@@ -1,7 +1,7 @@
 ## Summary
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Rakshit Parashar+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Software Engineer;Open-Source+Enthusiast" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+I'm+Rakshit Parashar" alt="Headline" />
 </div>
 
 <div style="display: flex;">
@@ -25,8 +25,13 @@ Motivated Software Engineer with over 3 years of experience. Proficient in build
 - [LinkedIn](https://www.linkedin.com/in/parashar1/)
 
   </div>
+<<<<<<< Updated upstream
   <div style="flex: 1;">
     <img src=".thumb/animation/gopher-dance-long-3x.gif" alt="Gopher Dance" />
+=======
+  <div style="flex: 0.45;">
+    <img src="animation/gopher-dance-long-3x.gif" alt="Gopher Dance" />
+>>>>>>> Stashed changes
   </div>
 </div>
 

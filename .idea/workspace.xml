@@ -24,6 +24,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/rp/github/ChillOrb",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -41,6 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693457718481</updated>
       <workItem from="1693457719705" duration="1742000" />
+      <workItem from="1693459586590" duration="342000" />
     </task>
     <servers />
   </component>

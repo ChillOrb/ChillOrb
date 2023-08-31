@@ -1,7 +1,7 @@
 ## Summary
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Rakshit Parashar+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Software Engineer;Open-Source+Enthusiast" alt="Headline" />
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I+am+Rakshit+Parashar" alt="Name SVG" /></a>
 </div>
 
 <div style="display: flex;">
@@ -24,11 +24,14 @@ Motivated Software Engineer with over 3 years of experience. Proficient in build
 - [Medium](https://medium.com/@rakshitparashar1)
 - [LinkedIn](https://www.linkedin.com/in/parashar1/)
 
-  </div>
+
+</div>
   <div style="flex: 0.45;">
     <img src="animation/gopher-dance-long-3x.gif" alt="Gopher Dance" />
   </div>
 </div>
+
+[credits](https://github.com/egonelbre)
 
 ---
 

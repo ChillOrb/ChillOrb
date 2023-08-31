@@ -7,7 +7,8 @@
 
 Motivated Software Engineer with over 3 years of experience. Proficient in building efficient, cloud-based distributed systems and microservices.
 
----
+<img src=".thumb/animation/gopher-dance-long-3x.gif">
+
 
 ## Skills 🛠
 

@@ -25,13 +25,8 @@ Motivated Software Engineer with over 3 years of experience. Proficient in build
 - [LinkedIn](https://www.linkedin.com/in/parashar1/)
 
   </div>
-<<<<<<< Updated upstream
-  <div style="flex: 1;">
-    <img src=".thumb/animation/gopher-dance-long-3x.gif" alt="Gopher Dance" />
-=======
   <div style="flex: 0.45;">
     <img src="animation/gopher-dance-long-3x.gif" alt="Gopher Dance" />
->>>>>>> Stashed changes
   </div>
 </div>
 

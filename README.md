@@ -7,7 +7,6 @@
 
 - 🌐 Location: Sunnyvale, CA 94086
 - 📧 Email: [rakshitparashar1@gmail.com](mailto:rakshitparashar1@gmail.com)
-- 🚀 GitHub: [ChillOrb](https://github.com/ChillOrb)
 
 Motivated Software Engineer with over 3 years of experience. Proficient in building efficient, cloud-based distributed systems and microservices.
 
